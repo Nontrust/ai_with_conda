@@ -7,3 +7,10 @@ script/train/structured_data_regressor/
 # House price auto model
 script/train/House_price_auto_model/
 
+# Train logs
+script/mutualFunds_2020/logs
+
+script/mutualFunds_2020/Mfund_auto_model
+
+script/mutualFunds_2020/structured_data_regressor
+
