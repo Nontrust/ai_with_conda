@@ -1,0 +1,9 @@
+# Train logs
+script/train/logs/
+
+# Structured Data Regressor files and models
+script/train/structured_data_regressor/
+
+# House price auto model
+script/train/House_price_auto_model/
+
