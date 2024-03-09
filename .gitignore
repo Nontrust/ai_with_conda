@@ -1,3 +1,8 @@
 script/**/*_auto_model/**
 script/**/logs/**
 script/**/structured_data_classifier/**
+
+script/**/trial_*
+script/**/graph
+script/**/oracle*.json
+script/**/tuner*.json
