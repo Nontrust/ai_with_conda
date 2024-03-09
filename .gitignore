@@ -1,20 +1,3 @@
-# Train logs
-script/train/logs/
-script/train/structured_data_regressor/
-script/train/House_price_auto_model/
-
-script/mutualFunds_2020/logs
-script/mutualFunds_2020/Mfund_auto_model
-script/mutualFunds_2020/structured_data_regressor
-
-script/country/model/
-script/country/Economic_auto_model
-script/country/structured_data_classifier
-script/country/logs
-
-
-script/economic_auto/logs
-script/economic_auto/structured_data_classifier
-script/economic_auto/Economic_auto_model
-
-
+script/**/*_auto_model/**
+script/**/logs/**
+script/**/structured_data_classifier/**
